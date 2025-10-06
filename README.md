@@ -1,2 +1,2 @@
-# Transformer-Auto-encoder
-An Interpretable Multi-Modal Fusion based Alzheimer’s Severity Classification using Patch-level Feature Extraction with Hierarchical Attention Negotiators Tensor Transformer Auto encoder
+# Alzheimer’s Severity Classification
+Multi-Modal Fusion with Hierarchical Attention for Alzheimer’s Severity Classification"
